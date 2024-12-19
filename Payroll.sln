@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payroll", "Payroll\Payroll.csproj", "{B03EA34A-A879-4CA9-8395-D1CBEBB613ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ED73E1A3-A86F-42BC-8315-E414574D6372}"
+	ProjectSection(SolutionItems) = preProject
+		CurrentUser.cs = CurrentUser.cs
+		DatabaseConnection.cs = DatabaseConnection.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B03EA34A-A879-4CA9-8395-D1CBEBB613ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03EA34A-A879-4CA9-8395-D1CBEBB613ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03EA34A-A879-4CA9-8395-D1CBEBB613ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03EA34A-A879-4CA9-8395-D1CBEBB613ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE6EE43A-A13E-4811-8E33-28D4EB194254}
+	EndGlobalSection
+EndGlobal
